@@ -1,2 +1,3 @@
 # APSSDC_CyberSecurity_SteganographyProject
-Use Jupyter Notebook for a good speed of execution
+# Project Title: Hiding Text in a Multimedia Image File Using Steganography
+# • Use Jupyter Notebook for a good speed of execution
