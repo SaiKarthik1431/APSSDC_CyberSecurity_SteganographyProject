@@ -2,8 +2,8 @@
 <b><i><b>Project Title:</b></i></b></br>
 <b>Hiding Text in a Multimedia Image File Using Steganography</b></br>
 <b><u>NOTE</u>:</b></br>
-<ol style="font-style:italic;">
+<i><ol>
  <li>Use Jupyter Notebook for a good speed of execution</li>
  <li>install piexif,os packages before running the python program</li>
  <li></li>
-</ol>
+</ol></i>
